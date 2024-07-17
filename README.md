@@ -1,4 +1,4 @@
-# smaller-than-Almaty-city
+# Countries that are smaller than the city of Almaty
 
 ![](smaller-than-Almaty-city.jpg)
 
